@@ -13,3 +13,4 @@ for letter in 'inty':
 
 '''这是miracle的first demo'''
           "明天會更美好"
+
