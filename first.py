@@ -12,4 +12,4 @@ for letter in 'inty':
     print("each letter is: " + letter)
 
 '''这是miracle的first demo'''
-"人"
+          "明天會更美好"
